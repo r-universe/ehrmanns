@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geometr"]
+	path = geometr
+	url = https://github.com/ehrmanns/geometr
+	shallow = true
+	registered = true
